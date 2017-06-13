@@ -1,0 +1,27 @@
+
+h3 { color: #ff0000 ;
+    margin-left: 3em;
+}
+h1 { margin-left: 2em;}
+article {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 2em;
+        background-color: #ef0000;
+}
+article header img {
+    width: 100%
+}
+@media (min-width: 900px) {
+    article {
+        width: 50% }
+}
+
+article section { 
+    font-size: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    
+}
+    
